@@ -13,4 +13,5 @@ July 2, 2022
   - Such pipelines include data preprocessing, the model architecture building, the training loop, the prediction and the evaluation of pipelines. 
   - Especially, Ludwig supports multi-objective evaluation (e.g., accuracy, latency, training speed, model size, carbon footprint) and provides APIs to generate visualizations and reports.
 
-
+July 15, 2022
+- **Using Sampling to Estimate and Improve Performance of Automated Scoring Systems with Guarantees**, Yaman Kumar Singla, Sriram Krishna, Rajiv Ratn Shah, Changyou Chen, **AAAI 2022** ([paper](https://www.aaai.org/AAAI22Papers/EAAI-00074-SinglaY.pdf)) (Citations **2**)
