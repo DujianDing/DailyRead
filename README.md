@@ -7,6 +7,7 @@ June 14, 2022
 
 July 2, 2022
 - **Declarative Machine Learning Systems**, Piero Molino, Christopher Ré, **ArXiv 2021** ([arxiv](https://arxiv.org/abs/2107.08148)) (Citations **5**)
+  - Systems (e.g., Overton, Ludwig) that allow users to build end-to-end ML pipelines through a declarative configuration. Such pipelines include data preprocessing, the modle architecture building, the training loop, the prediction and the evaluation of pipelines. 
 
 July 3, 2022
 - **Personalized Benchmarking with the Ludwig Benchmarking Toolkit**, Avanika Narayan, Piero Molino, Karan Goel, Willie Neiswanger, Christopher Ré. **NeurIPS 2021** ([arxiv](https://arxiv.org/abs/2111.04260)) (Citations **4**)
