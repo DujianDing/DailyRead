@@ -7,10 +7,10 @@ June 14, 2022
 
 July 2, 2022
 - **Declarative Machine Learning Systems**, Piero Molino, Christopher Ré, **ArXiv 2021** ([arxiv](https://arxiv.org/abs/2107.08148)) (Citations **5**)
-  - Systems (e.g., Overton, Ludwig) that allow users to build end-to-end ML pipelines through a declarative configuration. Such pipelines include data preprocessing, the modle architecture building, the training loop, the prediction and the evaluation of pipelines. 
-
-July 3, 2022
-- **Personalized Benchmarking with the Ludwig Benchmarking Toolkit**, Avanika Narayan, Piero Molino, Karan Goel, Willie Neiswanger, Christopher Ré. **NeurIPS 2021** ([arxiv](https://arxiv.org/abs/2111.04260)) (Citations **4**)
-
-July 4, 2022
+- **Personalized Benchmarking with the Ludwig Benchmarking Toolkit**, Avanika Narayan, Piero Molino, Karan Goel, Willie Neiswanger, Christopher Ré. **NeurIPS 2021** ([arxiv](https://arxiv.org/abs/2111.04260)) ([code](https://github.com/HazyResearch/ludwig-benchmarking-toolkit)) (Citations **4**)
 - **Overton: A Data System for Monitoring and Improving Machine-Learned Products**, Christopher Ré, Feng Niu, Pallavi Gudipati, Charles Srisuwananukorn. **CIDR 2020** ([CIDR](https://www.cidrdb.org/cidr2020/papers/p33-re-cidr20.pdf)) (Citations **28**)
+  - Systems (e.g., Overton, Ludwig) that allow users to build end-to-end ML pipelines through a declarative configuration. 
+  - Such pipelines include data preprocessing, the model architecture building, the training loop, the prediction and the evaluation of pipelines. 
+  - Especially, Ludwig supports multi-objective evaluation (e.g., accuracy, latency, training speed, model size, carbon footprint) and provides APIs to generate visualizations and reports.
+
+
