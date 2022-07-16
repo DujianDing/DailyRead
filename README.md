@@ -22,3 +22,26 @@ July 15, 2022
 - **Querying the World Efficiently and Reliably using Machine Learning**(Research Statement), Daniel Kang, **2022** ([paper](https://ddkang.github.io/application/research.pdf))
 - **Optimizing Machine Learning Inference Queries with Correlative Proxy Models**, Zhihui Yang, Zuozhi Wang, Yicong Huang, Yao Lu, Chen Li, X. Sean Wang, **ArXiv 2022** ([paper](https://arxiv.org/abs/2201.00309)) (Citations **2**)
 - **Everest: A Top-K Deep Video Analytics System**, Ziliang Lai, Chenxia Han, Chris Liu, Pengfei Zhang, Eric Lo, Ben Kao, **SIGMOD 2022** ([paper](https://dl.acm.org/doi/pdf/10.1145/3514221.3520151)) (Citations **0**)
+
+July 15, 2022
+- **Pruning Self-attentions into Convolutional Layers in Single Path**, Haoyu He, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang, **ArXiv** ([paper](https://arxiv.org/abs/2111.11802))
+- **Structured Pruning Learns Compact and Accurate Models**, Mengzhou Xia, Zexuan Zhong, Danqi Chen, **ACL 2022** ([paper](https://arxiv.org/abs/2204.00408)) (Citations **2**)
+- **Finding the Dominant Winning Ticket in Pre-Trained Language Models**, Zhuocheng Gong, Di He, Yelong Shen, Tie-Yan Liu, Weizhu Chen, Dongyan Zhao, Ji-Rong Wen, Rui Yan, **ACL 2022** ([paper](https://aclanthology.org/2022.findings-acl.115/)) (Citations **0**)
+- **Delta Keyword Transformer: Bringing Transformers to the Edge through Dynamically Pruned Multi-Head Self-Attention**, Zuzana Jelčicová, Marian Verhelst, **tinyML 2022** ([paper](https://arxiv.org/abs/2204.03479)) (Citations **0**)
+- **Probing via Prompting**, Jiaoda Li, Ryan Cotterell, Mrinmaya Sachan, **NAACL 2022** ([paper](https://arxiv.org/abs/2207.01736)) (Citations **1**)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
