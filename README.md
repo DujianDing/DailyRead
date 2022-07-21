@@ -30,7 +30,9 @@ July 15, 2022
 - **Delta Keyword Transformer: Bringing Transformers to the Edge through Dynamically Pruned Multi-Head Self-Attention**, Zuzana Jelčicová, Marian Verhelst, **tinyML 2022** ([paper](https://arxiv.org/abs/2204.03479)) (Citations **0**)
 - **Probing via Prompting**, Jiaoda Li, Ryan Cotterell, Mrinmaya Sachan, **NAACL 2022** ([paper](https://arxiv.org/abs/2207.01736)) (Citations **1**)
 
-
+July 21, 2022
+- **Knowing When You’re Wrong: Building Fast and Reliable Approximate Query Processing Systems**, Sameer Agarwal, Henry Milner, Ariel Kleiner, Ameet Talwalkar, Michael Jordan, Samuel Madden, Barzan Mozafari, Ion Stoica, **SIGMOD 2014** ([paper](https://sameeragarwal.github.io/mod282-agarwal.pdf)) (Citations **199**)
+- **Adaptive Neural Networks for Efficient Inference**, Tolga Bolukbasi, Joseph Wang, Ofer Dekel, Venkatesh Saligrama, **PMLR 2017** ([paper](https://arxiv.org/abs/1702.07811)) (Citations **217**)
 
 
 
